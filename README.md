@@ -53,6 +53,42 @@ Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ đư
 
 Tiếp theo là nếu như bạn đã đánh mất thời gian trên GIẢNG ĐƯỜNG thì quay lại cũng sẽ không muộn đúng không? Nhưng quan trọng quay lại thế nào? Điều đó không quan trọng bằng nỗ lực của bạn mỗi ngày mà thôi.
 
+## 👋👋👋 LỘ TRÌNH MYSQL BACKEND THỰC CHIẾN (30 SECTIONS) Intern đến Senior - Hệ thống High-Concurrency
+
+---
+
+01 - [MYSQL BACKEND(01): 9 Nguyên tắc không thể thiếu với Table MySQL trước khi khởi tạo.](https://youtu.be/hicWEOfMPn8)
+02 - [MYSQL BACKEND(02): Hiểu biết đầy đủ về kiến trúc MySQL - Thiết kế bảng theo dạng 1NF.](https://youtu.be/7Y0ii_QjlKM)
+03 - [MYSQL BACKEND(03): Hiểu biết đầy đủ về kiến trúc MySQL - Thiết kế bảng theo dạng 2NF.](https://youtu.be/L9tOHpxlnMA)
+04 - [MYSQL BACKEND(04): Lựa chọn kiểu dữ liệu thời gian: DateTime hay Timestamp là tối ưu nhất?](https://youtu.be/JwbQKBhmrC4)
+05 - [MYSQL BACKEND(05): Tại sao sử dụng SELECT * sẽ làm chậm hiệu suất và không hiệu quả?](https://youtu.be/O3tTBcEmpWA)
+06 - [MYSQL BACKEND(06): Cùng một câu QUERY nhưng đồng nghiệp tôi hiệu suất CAO hơn nhờ hiểu rõ cơ chế Index.](https://youtu.be/1dYbhikXnkw)
+07 - [MYSQL BACKEND(07): Thực tế INDEX được sử dụng sai nhiều - Chia sẻ CÔNG THỨC tối ưu Index thực chiến.](https://youtu.be/UYmCFPVx-XY)
+08 - [MYSQL BACKEND(08): Tối ưu hoá phân trang từ 7s còn 1s với Table có 10.000.000 dữ liệu.](https://youtu.be/tjT4O5HGIEU)
+09 - [MYSQL BACKEND(09): Intern đánh bại Senior - Dừng ngay việc sử dụng LIKE trong việc SEARCH dữ liệu.](https://youtu.be/1GTak-ifAnQ)
+10 - [MYSQL BACKEND(10): Tối ưu hoá UNION từ 3.3s còn 0.45s với 2 Table chứa 6.000.000 bản ghi.](https://youtu.be/rF08XXh9klw)
+11 - [MYSQL BACKEND(11): MVCC xử lý các vấn đề đồng thời của MySQL như thế nào? (Concurrency Control).](https://youtu.be/WKGIz5ViT7Y)
+12 - [MYSQL BACKEND(12): Sử dụng JOIN hãy nhớ nguyên tắc phải THÂN MẬT và phải GẦN GŨI.](https://youtu.be/Oe_AcOyUnVs)
+13 - [MYSQL BACKEND(13): Dữ liệu đã được mã hoá trong MYSQL, làm thế nào để tìm kiếm chính xác và nhanh?](https://youtu.be/1u5YbRBb9ls)
+14 - [MYSQL BACKEND(14): Nhiệm vụ tối ưu hoá bảng Orders với hàng triệu dữ liệu mỗi THÁNG trong Ecommerce.](https://youtu.be/aY8SiBuFLPw)
+15 - [MYSQL BACKEND(15): Khi nào cần SHARDING Table lớn? - Vấn đề phiền toái và 2 cách giải quyết.](https://youtu.be/xya2ClZWbNM)
+16 - [MYSQL BACKEND(16): Đừng nhầm lẫn giữa 3 khái niệm: PARTITION, SHARDING và REPLICATION.](https://youtu.be/rETG8-x_XFo)
+17 - [MYSQL BACKEND(17): Đảm bảo tính nhất quán (Consistency) khi ghi đồng thời dữ liệu vào Redis và MySQL.](https://youtu.be/piN--APNE98)
+18 - [MYSQL BACKEND(18): Giám sát (Monitoring) MySQL ONLINE qua hệ thống API chuyên dụng.](https://youtu.be/jqspVKUye9M)
+19 - [MYSQL BACKEND(19): Kỹ sư cao cấp - Cách đồng bộ dữ liệu MySQL sang Kafka sử dụng Debezium.](https://youtu.be/KqLzls2xCnQ)
+20 - [MYSQL BACKEND(20): MySQL sync Elasticsearch - Chọn 1 trong 4 cách đồng bộ dữ liệu Real-time hiệu suất cao.](https://youtu.be/WaexBdjw_ic)
+21 - [MYSQL BACKEND(21): Tôi không biết khi nào nên sử dụng Elasticsearch thay vì MySQL hay MongoDB?](https://youtu.be/ccxuHMGKX3U)
+22 - [MYSQL BACKEND(22): Vì sao lại chọn MONGODB, chả phải MYSQL cũng làm được mọi thứ sao?](https://youtu.be/tnUBjJJnwn0)
+23 - [MYSQL BACKEND(23): Đã có MySQL tại sao cần MongoDB? - 12 Patterns giải quyết dữ liệu siêu lớn.](https://youtu.be/TlxWi81Z4Y0)
+24 - [MYSQL BACKEND(24): Nếu bạn cảm thấy TRUY VẤN CHẬM, xem ngay cách tối ưu hoá MySQL thông minh.](https://youtu.be/ls6vJLO4otA)
+25 - [MYSQL BACKEND(25): Chiến lược Backup và Phục hồi dữ liệu (Recovery) cho hệ thống High Availability.]()
+26 - [MYSQL BACKEND(26): Xử lý bài toán Deadlock trong các Transaction thanh toán và đặt hàng phức tạp.](https://youtu.be/aY8SiBuFLPw)
+27 - [MYSQL BACKEND(27): Tối ưu hoá câu lệnh truy vấn phức tạp bằng kỹ thuật Common Table Expressions (CTE).]()
+28 - [MYSQL BACKEND(28): Bí mật về Buffer Pool và cách MySQL quản lý bộ nhớ đệm để đạt tốc độ tối đa.]()
+29 - [MYSQL BACKEND(29): Bảo mật Database - Chống SQL Injection và quản lý phân quyền (RBAC) nâng cao.]()
+30 - [MYSQL BACKEND(30): Tổng kết lộ trình: Trở thành chuyên gia MySQL Backend trong hệ thống hàng triệu người dùng.]()
+
+---
 
 
 
